@@ -1,7 +1,4 @@
 Hello World
-Hello World
 I am penguin
-I am penguin
-I am 4 yrs old
 I am 4 yrs old
 I make children to love with coding
